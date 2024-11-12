@@ -1,0 +1,84 @@
+body{
+	background-color: #D9D3CA;
+	}
+a:link, a:visited {
+background-color: #DEB598;
+color: black;
+padding: 125px 175px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 35px;
+}
+a:hover, a:active {
+background-color: #C0A591;
+}
+
+#index{
+display: flex;
+justify-content: center;
+}
+
+#titulo_1{
+text-align: center;
+font-size: 50px;
+}
+
+#titulo_2{
+text-align: center;
+font-size: 60px;
+}
+
+#nombre {
+text-align: center;
+font-size: 60px;
+}
+	
+#Div_1 {
+display:flex;
+align-items: center;
+background-color: #DEB598;
+padding: 125px 125px;
+text-decoration: none;
+font-size: 30px;
+}
+
+#Div_2 {
+background-color: #DEB598;
+padding: 45px 125px;
+font-size: 30px;
+margin-top: 1px;
+}
+
+#Div_3 {
+    margin-top: 10%;
+    display:flex;
+    align-items: center;
+    background-color: #DEB598;
+    padding: 125px 125px;
+    text-decoration: none;
+    font-size: 30px;
+    }
+    
+#Div_4 {
+    background-color: #DEB598;
+    padding: 45px 125px;
+    font-size: 30px;
+    margin-top: 1px;
+    }
+ 
+#texto{
+    text-align: center;
+}
+
+#margen {
+    background-color: #D9D3CA;
+    padding: 10px 75px;
+    font-size: 30px;
+    color: #D9D3CA
+}
+
+#Imagen{
+    width: 500px; 
+    height: auto;
+}
